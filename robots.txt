@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gentrygentry23.vercel.app/sitemap.xml

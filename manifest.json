@@ -1,0 +1,15 @@
+{
+  "name": "Gentry Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "./images/undraw/undraw_software_engineer_lvl5.png",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d32f2f",
+  "icons": [
+    {
+      "src": "./images/undraw/undraw_software_engineer_lvl5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
